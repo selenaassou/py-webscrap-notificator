@@ -1,3 +1,4 @@
 # py-webscrap-notificator
 
--Uses brightdata to scrap web data
+-Uses BrightData platform (It offers web data collection and proxy services to B2B companies.) 
+  to scrap web data
